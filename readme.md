@@ -23,6 +23,10 @@ The above graphs claims that the new users are growing positively during time. B
 
 ## People make only one shop or more? 
 
-![](Digikala_DS/imgs/one_vs_ptwo_shoppers.png)
+![](Digikala_DS/imgs/count_one_vs_ptwo.png)
 
-The pie graph tells us most people just shop one time! so sell the most stuffs in first time!
+<br>
+
+![](Digikala_DS/imgs/amount_gross_one_vs_ptwo.png)
+
+These pie graphs tells us most people just shop one time! so sell the most stuffs in first time! and also gross amount of customers who shop only once is more than customers who shop more than once.
