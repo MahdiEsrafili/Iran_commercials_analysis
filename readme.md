@@ -30,3 +30,8 @@ The above graphs claims that the new users are growing positively during time. B
 ![](Digikala_DS/imgs/amount_gross_one_vs_ptwo.png)
 
 These pie graphs tells us most people just shop one time! so sell the most stuffs in first time! and also gross amount of customers who shop only once is more than customers who shop more than once.
+
+<br>
+
+## Seasonal Pattern
+![](Digikala_DS/imgs/seasonal_pattern.png)
